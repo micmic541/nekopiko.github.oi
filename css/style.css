@@ -39,7 +39,6 @@ ul .navbar-nav::hover {
 
 .slideshow img {
 	max-height: 550px;
-	max-width: 1500px;
 	background-position: cover; 
 	object-fit: cover; 
 }
